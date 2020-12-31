@@ -32,7 +32,7 @@ We should be able to test any user_id against this rule it check if the user is 
 
 These rules could used to target offers to relavent users.
 
-# Note:
+Note:
 You are free to use any npm library that makes the implementation easier.
 
 ---
