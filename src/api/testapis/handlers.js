@@ -1,4 +1,6 @@
 export let hello = (request, h) => {
-  return h('Hello, world');
+  const response = h.response('Hello, world');
+  response.type('text/plain');
+  return response;
 };
 
